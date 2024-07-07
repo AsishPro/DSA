@@ -1,0 +1,1 @@
+            cout<<i+arr[j].size()<<" "<<dp[i+arr[j].size()]<<" "<<dp[i]<<" ";
